@@ -1,0 +1,64 @@
+GitHubの始め方【初心者向け】
+STEP 1：GitHubに登録する
+
+1・ブラウザで GitHub を検索
+
+2・Sign up をクリック
+
+3・ユーザー名・メール・パスワードを入力
+
+📌 ユーザー名は後で公開されるので、無難なものがおすすめ
+
+STEP 2：リポジトリを作る
+
+リポジトリ = 作品を入れる箱
+
+1・右上の「＋」→ New repository
+
+2・Repository name を入力（例：hello-github）
+
+3・Public を選択
+
+☑ Add a README file
+
+Create repository
+
+✅ これで1つ完成！
+
+
+STEP 3：READMEを書いてみる
+
+READMEは説明書です。
+
+例：
+md
+
+# hello-github
+
+GitHubの練習用リポジトリです。
+
+
+・編集 → Commit changes を押すだけ
+
+・変更履歴は自動保存
+
+
+
+STEP 4：ファイルをアップロード
+
+1・Add file → Upload files
+
+2・ファイルをドラッグ
+
+3・Commit changes
+
+📌 プログラム以外（txt, md, pdf）でもOK
+
+STEP 5：最低限覚える言葉（これだけ）
+用語	意味
+Repository	ファイル置き場
+Commit	変更を保存
+README	説明書
+Push	アップロード
+Pull	ダウンロード
+
